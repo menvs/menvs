@@ -23,11 +23,6 @@ I'm a **Fullstack .NET Developer** with a passion for building scalable, high-pe
   
 ---
 
-### 📂 Projects
-- **[Enterprise Expense Management System](https://github.com/menvs/Practical.EEMSystem)**  
-   A microservices-based system for managing enterprise expenses, leveraging .NET Core API, Angular, Docker, and Kubernetes.
----
-
 ### 🌱 Currently Learning
 - **JS Library**: ReactJS
 - **Cloud Technology**: Azure
